@@ -17,3 +17,6 @@ TensorFlow, PyTorch, OpenCV, and so on. It hasn’t been decided yet because it 
 
 
 If you have any information you want to share or want to inform you of anything, you can post it on Slack or GitHub.
+
+reference URL  
+https://blog.daum.net/geoscience/92  
