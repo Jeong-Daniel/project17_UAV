@@ -15,7 +15,6 @@ TensorFlow, PyTorch, OpenCV, and so on. It hasn’t been decided yet because it 
 * research individually (during weekend)
 
 # Schedule
-* (29th) [8, 7, 15, 4, 17, 13, 11, 9, 16, 14, 6]
 * (5th) [9, 8, 11, 7, 16, 4, 14, 15, 13, 6, 17]
 
 If you have any information you want to share or want to inform you of anything, you can post it on Slack or GitHub.
