@@ -12,7 +12,9 @@ TensorFlow, PyTorch, OpenCV, and so on. It hasn’t been decided yet because it 
 
 
 # To-Do-List
-* research individually (during weekend)
+* build up OpenCV detector
+* build up Rasberry Pi - remote contorl - DB connect
+* make demo
 
 # Schedule
 * (5th) [9, 8, 11, 7, 16, 4, 14, 15, 13, 6, 17]
