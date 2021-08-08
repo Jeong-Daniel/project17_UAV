@@ -18,6 +18,8 @@ TensorFlow, PyTorch, OpenCV, and so on. It hasn’t been decided yet because it 
 
 # Schedule
 * (5th) [9, 8, 11, 7, 16, 4, 14, 15, 13, 6, 17]
+* (12th)
+* (19th)
 
 If you have any information you want to share or want to inform you of anything, you can post it on Slack or GitHub.
 
