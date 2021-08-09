@@ -10,7 +10,7 @@ print("serial connect")
 #import port and bitrate 9600, not timeout)
 
 while True:
-    data = ser.readline().decode()
+    data = ser.readline().decode('utf-8')
     #Import GPS data from serial port GPS
     
     # GPGGA is Global Positioning system fix data
