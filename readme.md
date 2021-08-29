@@ -17,7 +17,8 @@ This project aims to build a environmental operation system that can be to detec
 ![image](https://user-images.githubusercontent.com/85277660/131251447-076249fb-1508-49d7-b9ad-d2c8fb78c464.png)
 
 * Use the Haar Cascades built into OpenCV to detect trees.
-* Tree data set:()
-* Haar Cascade model:()
+* Tree data set:It is a dataset for training the haar cascade model. There are a total of 107 positive images and 146 negative images. In the case of negative images, 1000 are recommended by adding additional images.![detail](./data_set)
+* Video capture program:This program is a program that captures images by dragging them from the video.![detail](./data_set/vedio_capture.ipynb)
+* Haar Cascade model:![detail](./main_code/cascade_code.py)
 * When the object is detected, the raspberry pi stores the number of trees and the latitude and longitude received from the module from the GPS in MariaDB.
 * Connect to the DB with another computer connected to the internal network to visualize the data.
