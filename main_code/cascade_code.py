@@ -5,8 +5,8 @@ import cv2
 import numpy as np
 from os.path import isfile, join
 
-tree_classifier = cv2.CascadeClassifier('Cascade.xml file location')
-cap = cv2.VideoCapture('Video file location')
+tree_classifier = cv2.CascadeClassifier('Cascade.xml file path')
+cap = cv2.VideoCapture('Video file path')
 out = cv2.VideoWriter('results.avi',cv2.VideoWriter_fourcc(*'XVID'), 20, (3840, 2160))
 
 while True:
