@@ -8,19 +8,8 @@ Daehyeon Jeong -Pusan National University
 Jaeyoung Shim -Pusan National University  
 Jeonghwan Kang -Pusan National University  
 Seoungheong Jeong -Pusan National University  
-
-1.  The scope of the project should be set clearly.  
- Drone autopilot wasn't that simple in my experience. There are many conditions for flying drones.
-As it’s almost impossible to fly drones in schools, we will go to a light aircraft runway managed by the Aerospace engineering department at the Yangsan campus of Pusan National University when we need to fly drones. I will handle to earn permission before using the place.
-2.  Which technology to use  
-TensorFlow, PyTorch, OpenCV, and so on. It hasn’t been decided yet because it depends on what kind of skills or functions are required to continue studying. I might add I’m used to using Python for programming  
-3.  Which equipment to use.  
- We need to decide on embedded equipment, and I think Raspberry Pi is the best option. If we need to use drones together, other equipment would be considered as well.
-
-# To-Do-List
-* research individually (during weekend)
-
-If you have any information you want to share or want to inform you of anything, you can post it on Slack or GitHub.
-
-reference URL  
-https://blog.daum.net/geoscience/92  
+--
+## Projet Goal
+This project aims to build a environmental operation system that can be to detect trees using machine learning object detection algorithm.
+* OpenCV - One of the open source computer vision libraries is cross-platform and real-time image processing.
+* 
