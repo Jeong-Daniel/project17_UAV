@@ -13,6 +13,6 @@ Seoungheong Jeong -Pusan National University
 This project aims to build a environmental operation system that can be to detect trees using machine learning object detection algorithm.
 * OpenCV - One of the open source computer vision libraries is cross-platform and real-time image processing.
 * Haar Cascade - It is an Object Detection Algorithm used to identify faces in an image or a real time video  
---
+
 ## System overview
 ![image](https://user-images.githubusercontent.com/85277660/131251447-076249fb-1508-49d7-b9ad-d2c8fb78c464.png)
