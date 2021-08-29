@@ -33,8 +33,8 @@ cur.execute(sql)
 conn.commit()
 conn.close()
 
-tree_classifier = cv2.CascadeClassifier('cascade.xml')
-cap = cv2.VideoCapture('/home/pi/Desktop/project/video/TEMP.MP4')
+tree_classifier = cv2.CascadeClassifier('cascade.xml file path')
+cap = cv2.VideoCapture('Vedio file path')
 #out = cv2.VideoWriter('results.avi',cv2.VideoWriter_fourcc(*'XVID'), 20, (1280, 720))
 
 while True:
